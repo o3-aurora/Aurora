@@ -19,6 +19,9 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		F58EDA802E45DEB90095306D /* advance.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = advance.py; sourceTree = "<group>"; };
+		F58EDA812E45DEB90095306D /* analysis.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = analysis.py; sourceTree = "<group>"; };
+		F58EDA822E45DEB90095306D /* async.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = async.py; sourceTree = "<group>"; };
 		F59BA5442DEF9A230022AC62 /* Aurora */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Aurora; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -44,6 +47,9 @@
 		F59BA53B2DEF9A230022AC62 = {
 			isa = PBXGroup;
 			children = (
+				F58EDA802E45DEB90095306D /* advance.py */,
+				F58EDA812E45DEB90095306D /* analysis.py */,
+				F58EDA822E45DEB90095306D /* async.py */,
 				F59BA5462DEF9A230022AC62 /* Aurora */,
 				F59BA5452DEF9A230022AC62 /* Products */,
 			);

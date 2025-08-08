@@ -7,7 +7,7 @@
 
 import Foundation
 
-let command = "source ~/.zshrc && /usr/bin/python3 $HOME/Developer/async.py"
+let command = "source ~/.zshrc && /usr/bin/python3 /Users/paxtonrivera/Documents/Aurora/advance.py"
 
 // Launch the shell process
 let process = Process()
