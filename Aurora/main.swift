@@ -1,10 +1,3 @@
-//
-//  main.swift
-//  Aurora
-//
-//  Created by Paxton Rivera on 6/3/25.
-//
-
 import Foundation
 
 let command = "source ~/.zshrc && /usr/bin/python3 /Users/paxtonrivera/Documents/Aurora/advance.py"

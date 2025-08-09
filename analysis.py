@@ -149,7 +149,7 @@ joblib.dump(scaler, 'scaler.pkl')
 metadata = {
     "features": features,
     "window": window,
-    "threshold": 0.005,
+    "threshold": 0.53,
     "class_weights": classweights
 }
 with open("metadata.json", "w") as f:
